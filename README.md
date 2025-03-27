@@ -1,7 +1,31 @@
 # Paul Biker Shop Power BI Project 🚴‍♂️📊  
 
+## Project Summary
+This project analyzes sales, customer behavior, and product performance for **Paul Biker Shop** using **Power BI**. The dataset was sourced from **SQL Server**, where SQL queries were used to **join three tables**, extract **relevant columns**, and prepare the data for visualization. 
+
 ## Overview  
-The Paul Biker Shop Power BI Dashboard is an advanced analytics project that provides insights into **sales performance, customer segmentation, and profitability metrics**.  
+The Paul Biker Shop Power BI Dashboard is an advanced analytics project that provides insights into **sales performance, customer segmentation, and profitability metrics**
+
+## Key Steps:
+- **Data Extraction**: SQL queries were used to join the tables and select necessary fields.
+- **Data Transformation**: Cleaned and structured in Power BI for analysis.
+- **Dashboard Creation**: Interactive reports and KPIs were built to derive insights.
+
+## Key Reports & Insights:
+1. **Sales Performance** – Trends in revenue, peak sales periods, and top-selling products.
+2. **Customer Segmentation** – Identifying loyal customers and buying patterns.
+3. **Inventory Management** – Monitoring stock levels and slow-moving items.
+4. **Profitability Analysis** – Examining profit margins per product and region.
+5. **Regional Sales Report** – Comparing sales across different locations.
+6. **Marketing Impact Analysis** – Assessing promotional effectiveness.
+
+## Repository Content:
+- **Power BI Dashboard (.pbix)** – The final visualization file.
+- **Raw Data** – Includes the extracted dataset.
+- **SQL Query Scripts** – For data extraction from SQL Server.
+- **Visuals Folder** – Contains exported reports and dashboards.
+
+This repository provides a structured approach to **business intelligence and data-driven decision-making** using **Power BI and SQL**..  
 
 ## Data Sourcing & Preparation  
 - **Data Source:** SQL Server 🗄️  
