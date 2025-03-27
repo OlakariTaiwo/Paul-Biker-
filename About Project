@@ -1,0 +1,2 @@
+About
+This project presents a Power BI dashboard for Paul Biker Shop, built using data sourced from SQL Server. The data was extracted using SQL queries, cleaned, and transformed before generating insightful visualizations. The dashboard provides key business insights, including sales trends, revenue analysis, customer segmentation, and performance metrics to support data-driven decision-making.
